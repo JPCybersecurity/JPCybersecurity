@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>[Web Authentication Vulnerabilities and Mitigation]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/JPCybersecurity/authentication-security-hardening)) </b>
+- <b>[Web Authentication Vulnerabilities and Mitigation](https://github.com/JPCybersecurity/authentication-security-hardening) </b>
   - Demonstrated and hardened web authentication systems against brute-force attacks and session fixation using firewall rules, secure session handling, and OWASP-aligned controls.
     
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
