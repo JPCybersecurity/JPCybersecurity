@@ -6,8 +6,9 @@
 - <b>[Web Authentication Vulnerabilities and Mitigation](https://github.com/JPCybersecurity/authentication-security-hardening) </b>
   - Demonstrated and hardened web authentication systems against brute-force attacks and session fixation using firewall rules, secure session handling, and OWASP-aligned controls.
     
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>SIEM Implementation & Threat Detection Lab (Home Lab)</b>
+  - Configured a Splunk SIEM instance to ingest and index Sysmon logs from a Windows endpoint.
+  - Developed custom SPL (Search Processing Language) queries to detect brute-force anomalies and visualised threat data for monitoring. 
 
 <h2> Certifications</h2>
 
